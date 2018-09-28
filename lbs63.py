@@ -7,6 +7,6 @@ while true:
 
     c=a[random.randint(1,3)]
 
-    print("you choose:",p,"computer chooses:" ,r)
-
-    if    
+    print("i choose:",p,"computer chooses:" ,r)
+    if(computr choose r):
+    print("i won"):
