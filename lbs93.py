@@ -5,7 +5,7 @@ def mymail():
 	return
 
 def takesnap():
-	os.system("fswebcam -F 4 img/ymp.jpg")
+	os.system("fswebcam -F 4 img/tmp.jpg")
 	return
 
 for i in range(10):
